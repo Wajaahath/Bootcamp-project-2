@@ -1,4 +1,4 @@
-📝 Task Manager Application
+📝 TASK MANAGER APPLICATION
 
 A Python-based Task Manager designed to help small businesses manage tasks efficiently. The application supports user authentication, task assignment, task viewing, and basic statistics tracking.
 
