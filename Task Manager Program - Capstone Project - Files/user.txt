@@ -1,0 +1,4 @@
+admin, adm1n
+Mohammed, Blue1
+Wajaahath, Red2
+Yasin, Yellow3
