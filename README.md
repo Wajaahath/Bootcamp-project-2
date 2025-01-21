@@ -14,10 +14,12 @@ A Python-based Task Manager designed to help small businesses manage tasks effic
   - Ensures tasks.txt and user.txt files have the correct structure.
   - Skips and reports invalid entries.
 
+
 🛠️ Technologies Used
 - Python: Core programming language.
 - File Handling: Uses .txt files (tasks.txt and user.txt) for data storage.
 - Datetime Module: For handling task due dates and assignment dates.
+
 
 🖥️ How to Use
 Login
@@ -32,6 +34,7 @@ Task Management
 - Add a new task by specifying the assignee, title, description, and due date.
 - View all tasks or only tasks assigned to you.
 - Update a task's completion status (e.g., from No to Yes).
+
 
 🛡️ Error Handling
 - Ensures user.txt and tasks.txt files are present. If missing, the program exits with an error message.
